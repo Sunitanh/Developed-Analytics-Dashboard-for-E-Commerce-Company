@@ -44,7 +44,7 @@ ________________________________________
 ________________________________________
 **Key Outputs:**
 •	**KPI Dashboard:** Real-time tracking of Sales, Revenue, Orders, Conversion Rates, Sessions.
-•**Pricing & Promotion Dashboard:**Trends in pricing vs. sales volume, effect of discount % on purchase rate, promotion effectiveness by product/category.
+• **Pricing & Promotion Dashboard**:Trends in pricing vs. sales volume, effect of discount % on purchase rate, promotion effectiveness by product/category.
 •	**Search & Recommendations Dashboard:** Popular brand/category search paths, keyword-to-purchase conversions.
 •	**Time & Channel Insights:** Heatmaps of traffic by hour/day/channel, funnel drop-off by event type and user segment.
 •	**Segmentation Insights:** Purchase trends by customer tier (User_Score), top contributing states and brands.
