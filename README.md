@@ -3,7 +3,9 @@
 A leading e-commerce client sought to improve decision-making and enhance the user experience by gaining visibility into customer behavior, pricing strategies, promotional effectiveness, and product search patterns. As part of their analytics initiative, they required an interactive dashboard that would track key performance metrics and offer actionable insights to marketing, product, and operations teams.
 ________________________________________
 **Problem Statement:**
-The client lacked a centralized, analytical view of customer behavior and promotional impact. While raw data existed across multiple domains (sales, promotions, user activity), it was siloed and not effectively used for business decision-making. The challenge was to clean, integrate, and visualize this data to:
+The client lacked a centralized, analytical view of customer behavior and promotional impact. While raw data existed across multiple domains (sales, promotions, user activity), it was siloed and not effectively used for business decision-making.
+
+The challenge was to clean, integrate, and visualize this data to:
 
 •	Understand pricing and promotion effectiveness
 
@@ -12,6 +14,7 @@ The client lacked a centralized, analytical view of customer behavior and promot
 •	Improve targeting through search and recommendation analytics
 ________________________________________
 **Data Availability:**
+
 Two datasets were provided by the client:
 
 1.	**Sales_Data_Ecommerce** – Customer behavior over two months (views, carts, purchases) with attributes like event time, channel, product, category, brand, user score, state, and price.
@@ -64,7 +67,7 @@ ________________________________________
 
 •	**Power BI** – For visualization and dashboard creation
 
-•	**Power Query **– For data ingestion, transformation, and cleaning
+•	**Power Query**– For data ingestion, transformation, and cleaning
 
 •	**DAX** – For complex KPI calculations and time intelligence
 
